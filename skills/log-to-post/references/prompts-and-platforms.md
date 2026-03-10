@@ -18,7 +18,9 @@ Generate one draft per format. Each format has a **distinct style and length**�
 
 ### LinkedIn
 
-**[LinkedIn Agent]** Professional but real — as in the vision: "What did I learn, what does it mean for how we work?" Confident, conversational tone, light storytelling, short lines. Include 3–5 hashtags at the end (#FullStackDeveloper #ReactJS #NodeJS #AWS #RemoteWork). Encourage engagement (question or "What do you think?"). 150–300 words. Insight-driven: what was learned and what it means for how we work. Subtle emoji. Avoid sounding desperate or salesy.
+**[LinkedIn Agent]** Professional but real — as in the vision: "What did I learn, what does it mean for how we work?" Confident, conversational tone, light storytelling, short lines. Include 3–5 hashtags at the end (#FullStackDeveloper #ReactJS #NodeJS #AWS #RemoteWork). Encourage engagement (question or "What do you think?"). 150–300 words. Insight-driven. Subtle emoji. Avoid sounding desperate or salesy.
+
+**Topic focus (LinkedIn):** Lean into **business and professional relevance**, not straight technical detail. From the log, extract or infer: what you learned as a dev/architect/engineer, how it improves how you work, why it matters for delivery or quality, and what other professionals could take away. Frame technical wins in terms of impact (e.g. "shipped in 20 minutes" → "what that means for how we scope work" or "how this changes the way I approach similar problems"). Avoid code dumps or implementation-heavy explanations; keep the post about insights, process, and professional growth.
 
 **Formatting (LinkedIn):**
 - **Short lines:** One idea per line or short paragraph. White space = readability.
