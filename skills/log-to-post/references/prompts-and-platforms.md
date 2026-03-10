@@ -20,6 +20,16 @@ Generate one draft per format. Each format has a **distinct style and length**�
 
 **[LinkedIn Agent]** Professional but real — as in the vision: "What did I learn, what does it mean for how we work?" Confident, conversational tone, light storytelling, short lines. Include 3–5 hashtags at the end (#FullStackDeveloper #ReactJS #NodeJS #AWS #RemoteWork). Encourage engagement (question or "What do you think?"). 150–300 words. Insight-driven: what was learned and what it means for how we work. Subtle emoji. Avoid sounding desperate or salesy.
 
+**Formatting (LinkedIn):**
+- **Short lines:** One idea per line or short paragraph. White space = readability.
+- **Bullet points:** Use • for lists (steps, options, before/after). Keeps the post scannable.
+- **Subtle icons, IF NEEDED:** Use sparingly for structure and emphasis:
+  - 👉 for steps or "how it works" (e.g. "👉 You do X → 👉 Then Y")
+  - ❌ / ✅ for contrast (e.g. "❌ The amateur way: …" vs "✅ The pro way: …")
+  - 👀 at the end of the hook to create curiosity
+  - 😎👇 or similar only in the closing CTA ("tag someone below 👇")
+- **Structure:** Hook (with optional 👀) → 1–2 short context lines → bullet or icon-led explanation → contrast block (❌ vs ✅) if it fits → one-line insight → question or CTA → "Link in comments" or "Tag someone below" if relevant.
+
 ### X / Twitter
 
 **[X Poster Agent]** Punchy. One idea. Hook first — as in the vision. Casual and quick (ideal max 280 characters). Thread only if the topic deserves more space. Energetic emojis, 2–4 hashtags (#FullStack #WebDev #RemoteDeveloper #100DaysOfCode). Hook + link + subtle CTA. Dev-community style: technical and relatable.
@@ -27,6 +37,11 @@ Generate one draft per format. Each format has a **distinct style and length**�
 ### Reddit
 
 **[Reddit Poster Agent]** Casual and honest. Dev-community voice — as in the vision: "No hype, just here's what I ran into." Humble, value-first (not salesy to avoid bans). Share as "showing what I built" or "asking for feedback". Respect r/webdev, r/forhire, r/SideProject. Catchy title, body with details and link, ask for feedback/roast. Start with "I built this..." or similar; end with "Thoughts?" or "Open to remote freelance if it fits". No excessive hashtags. **Output:** title in the first paragraph, blank line, then body.
+
+**Formatting (Reddit):**
+- **Structure:** Title as first line, blank line, then body. Short paragraphs; avoid walls of text.
+- **Bullet points:** Use • or - for feature lists, steps, or "what I did" so the post is easy to scan.
+- **Icons:** Use sparingly and only if it fits the sub (e.g. ✅/❌ for pros/cons, 👉 for steps). Don’t overdo it; Reddit favors clear, readable text over decoration.
 
 ### Standup
 
