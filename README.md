@@ -68,4 +68,4 @@ Edit the generated drafts as needed before posting.
 
 ## Skill definition
 
-The behavior and checklists for the Cursor agent are in [SKILL.md](SKILL.md). Use it when installing or extending the skill.
+The behavior and checklists for the Cursor agent are in [SKILL.md](skills/log-to-post/SKILL.md). Use the `skills/log-to-post/` folder when installing or extending the skill in Cursor.
